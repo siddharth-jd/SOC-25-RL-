@@ -1,3 +1,5 @@
+# RL:Race and Learn
+
 # Week 1:
 In the first week I have learned the concepts of python basics, pygame and created an snake game from the learnings.I have attatched the snake game code in week 1 folder.
 
